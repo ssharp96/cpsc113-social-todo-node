@@ -23,6 +23,7 @@
     "express": "^4.13.4",
     "express-handlebars": "^2.0.1",
     "express-session": "^1.13.0",
+    "mongodb": "^2.1.5",
     "mongoose": "^4.3.7"
   },
   "devDependencies": {
